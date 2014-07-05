@@ -1,3 +1,11 @@
+unreleased
+==========
+
+ * support non-string `path` in `app.use(path, fn)`
+   - supports array of paths
+   - supports `RegExp`
+ * deps: path-to-regexp@0.1.3
+
 4.5.1 / 2014-07-06
 ==================
 
