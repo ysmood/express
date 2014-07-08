@@ -5,6 +5,7 @@ unreleased
    - supports array of paths
    - supports `RegExp`
  * perf: fix optimization on router exit
+ * perf: refactor location of `try` blocks
  * perf: speed up standard `app.use(fn)`
 
 4.5.1 / 2014-07-06
