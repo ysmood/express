@@ -4,6 +4,7 @@ unreleased
  * support non-string `path` in `app.use(path, fn)`
    - supports array of paths
    - supports `RegExp`
+ * perf: fix optimization on router exit
 
 4.5.1 / 2014-07-06
 ==================
