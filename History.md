@@ -1,6 +1,7 @@
 unreleased
 ==========
 
+ * catch errors in multiple `req.param(name, fn)` handlers
  * support non-string `path` in `app.use(path, fn)`
    - supports array of paths
    - supports `RegExp`
