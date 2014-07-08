@@ -5,6 +5,7 @@ unreleased
    - supports array of paths
    - supports `RegExp`
  * router: fix optimization on router exit
+ * router: speed up standard `app.use(fn)`
  * deps: path-to-regexp@0.1.3
 
 4.5.1 / 2014-07-06
