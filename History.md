@@ -8,6 +8,8 @@ unreleased
  * router: fix optimization on router exit
  * router: refactor location of `try` blocks
  * router: speed up standard `app.use(fn)`
+ * deps: parseurl@~1.1.3
+   - faster parsing of href-only URLs
  * deps: path-to-regexp@0.1.3
 
 4.5.1 / 2014-07-06
